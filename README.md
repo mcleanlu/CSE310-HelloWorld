@@ -15,7 +15,9 @@ I created the Python "Hello World" application using Visual Studio Code (VS Code
 # Run Application
 
 To run the application, execute the following command:
-`'nano'`
+```
+python helloworld.py
+```
 
 
 # Useful Websites
