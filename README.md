@@ -12,6 +12,12 @@ The Python "Hello World" program was developed with the intention of introducing
 
 I created the Python "Hello World" application using Visual Studio Code (VS Code) as my code editor. With its many capabilities for Python development, including syntax highlighting, code completion, and debugging, VS Code is a free, open-source program. Python is a high-level, interpreted programming language that is popular for many uses, including web development and data research. It is also simple to learn.
 
+# Run Application
+
+To run the application, execute the following command:
+`'nano'`
+
+
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
